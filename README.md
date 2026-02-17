@@ -4,10 +4,11 @@
 
 > Computer Science graduate passionate about systems, infrastructure, distributed software, and building performant systems to solve problems efficiently.
 
-# Current Projects
------
-🤠(RepoWrangler)[https://github.com/BAMorgan/RepoWrangler] - uses LLMs, tree-sitter, and a TUI to explore codebases and automatically generate models, diagrams, and reports 
-🖼️(PixelPipe)[https://github.com/BAMorgan/PixelPipe] - flexible vision pipeline for turning images and video into reliable outputs
+## Current Projects
+  ---
+
+  - [RepoWrangler](https://github.com/BAMorgan/RepoWrangler) - Uses LLMs, Tree-sitter, and a TUI to explore codebases and automatically generate models, diagrams, and reports.
+  - [PixelPipe](https://github.com/BAMorgan/PixelPipe) - Flexible vision pipeline for turning images and video into reliable outputs.
 
 
 I like working at the intersection of:
