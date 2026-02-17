@@ -7,7 +7,7 @@
 ## Current Projects
   ---
 
-- 🤠[RepoWrangler](https://github.com/BAMorgan/RepoWrangler) - Uses LLMs, Tree-sitter, and a TUI to explore codebases and automatically generate models, diagrams, and reports.
+- 🤠[RepoWrangler](https://github.com/BAMorgan/RepoWrangler) - Uses LLMs, Tree-sitter, and a TUI to explore codebases and generate models, diagrams, and reports.
 - 🖼️[PixelPipe](https://github.com/BAMorgan/PixelPipe) - Flexible vision pipeline for turning images and video into reliable outputs.
 
 
