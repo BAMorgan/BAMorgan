@@ -4,19 +4,22 @@
 
 > Computer Science graduate passionate about systems, infrastructure, distributed software, and building performant systems to solve problems efficiently.
 
+I like working at the intersection of:
+
+- ⚙️ Backend / Systems Engineering  
+- 🧠 Machine Learning / Computer Vision  
+- 🔌 Low-level / Performance-oriented programming 
+- ☁️ DevOps / Infrastructure / Observability  
+ 
+
+
 ## Current Projects
-  ---
+
 
 - 🤠[RepoWrangler](https://github.com/BAMorgan/RepoWrangler) - Uses LLMs, Tree-sitter, and a TUI to explore codebases and generate models, diagrams, and reports.
 - 🖼️[PixelPipe](https://github.com/BAMorgan/PixelPipe) - Flexible vision pipeline for turning images and video into reliable outputs.
 
 
-I like working at the intersection of:
-
-- ⚙️ Backend / Systems Engineering  
-- ☁️ DevOps / Infrastructure / Observability  
-- 🧠 Machine Learning / Computer Vision  
-- 🔌 Low-level / Performance-oriented programming  
 
 ---
 
