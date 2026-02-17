@@ -122,8 +122,8 @@ I care a lot about:
 
 If you’re into systems, infra, distributed software, or weird side projects:
 
-- 💼 LinkedIn: linkedin.com/in/brandon-a-morgan/
-- 🌐 Website / Blog: brumich.com/
+- 💼 [LinkedIn](linkedin.com/in/brandon-a-morgan/)
+- 🌐 [Website / Blog](brumich.com/)
 - 📫 Reach me via GitHub
 
 ---
