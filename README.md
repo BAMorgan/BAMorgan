@@ -15,10 +15,7 @@ I like working at the intersection of:
 
 ## Current Projects
 
-
-- 🤠[RepoWrangler](https://github.com/BAMorgan/RepoWrangler) - Uses LLMs, Tree-sitter, and a TUI to explore codebases and generate models, diagrams, and reports.
 - 🖼️[PixelPipe](https://github.com/BAMorgan/PixelPipe) - Flexible vision pipeline for turning images and video into reliable outputs.
-
 
 
 ---
@@ -71,18 +68,6 @@ Long-term, I’m working toward roles in:
 
 ---
 
-## 🧪 Things I Like Building
-
-I’m drawn to projects involving:
-
-- Distributed systems  
-- Infrastructure & homelab architecture    
-- Data pipelines & telemetry systems  
-- ML / CV experimentation systems  
-- Performance-sensitive software   
-
----
-
 ## 🖥️ Homelab & Infra
 
 I run a fairly involved self-hosted environment where I experiment with:
@@ -95,29 +80,6 @@ I run a fairly involved self-hosted environment where I experiment with:
 - Reliability & failure scenarios
 
 This is where many of my ideas get prototyped before becoming full projects.
-
----
-
-## 🧭 Engineering Interests
-
-I care a lot about:
-
-- System design & architecture
-- Reliability & fault tolerance
-- Developer experience
-- Performance & efficiency
-- Clean abstractions over complexity
-- Understanding how things work *under the hood*
-
----
-
-## 📈 Current Goals
-
-- Deepen systems & distributed architecture skills
-- Build production-style personal projects
-- Expand DevOps / infra engineering expertise
-- Continue exploring Computer Vision systems
-- Move toward highly technical engineering roles
 
 ---
 
