@@ -29,7 +29,7 @@ Long term, I’m working toward roles in:
 
 ## Tech Stack
 
-**Languages:** Java, Go, Python, Rust
+**Languages:** Java, Go, Python, C
 
 **Backend / Systems:** Spring Boot, FastAPI, REST APIs, async systems, distributed architectures
 
