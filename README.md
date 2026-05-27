@@ -5,9 +5,9 @@ Computer Science graduate focused on systems, infrastructure, and performant sof
 I’m most interested in:
 
 - Backend / Systems Engineering
-- Machine Learning / Computer Vision
-- Low-level / Performance-oriented programming
-- DevOps / Infrastructure / Observability
+- Computer Vision
+- Performance-oriented programming
+- DevOps / Infrastructure 
 
 ## Homelab
 
